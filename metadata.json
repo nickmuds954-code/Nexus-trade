@@ -1,0 +1,7 @@
+{
+  "name": "NexusTrade Pro",
+  "description": "A high-performance trading platform with integrated G-Coin mining, real-time market analytics powered by Gemini, and secure multi-channel financial management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
